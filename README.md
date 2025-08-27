@@ -1,6 +1,7 @@
 # NLP-Based-Business-Sentiment-Index-for-India-
 A medium frequency business sentiment analysis tool for forecasting economic indicators in India using Natural Language Processing and econometric modeling.
-📊 Overview
+
+📊 #Overview
 This research project develops a Business Sentiment Index (BSI) that leverages advanced NLP techniques and neural networks to analyze business sentiment from news sources and forecast key economic indicators for the Indian economy. The BSI demonstrates superior performance compared to traditional survey-based indices in real-time economic tracking.
 🎯 Key Features
 
